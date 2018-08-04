@@ -1,0 +1,11 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 4em;
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+html {
+  background-color: RGB(66, 146, 238);
+}
