@@ -1,11 +1,14 @@
-h1 {
+html {
+  background-color: RGB(66, 146, 238);
   font-family: Helvetica;
-  font-size: 4em;
+}
+
+h1 {
+  font-size: 4.5em;
   text-align: center;
   color: white;
   font-style: italic;
-}
-
-html {
-  background-color: RGB(66, 146, 238);
+  text-transform: uppercase;
+  text-shadow: 4px 4px 4px black;
+  letter-spacing: 3px;
 }
